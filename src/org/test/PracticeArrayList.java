@@ -18,7 +18,10 @@ public class PracticeArrayList {
 		l.add("Null");
 		l.add("Null");
 		l.add("BMW");
+
+		l.add("Hyundai");
 		l.add("Volvo");
+
 		
 		System.out.println(l);
 		int size = l.size();
